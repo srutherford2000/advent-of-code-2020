@@ -1,0 +1,1 @@
+Code is organized by day, with the instructions given in an instruction text. Code may not be the most efficent way to solve any one problem, but all provided a solution to the given problem. More to follow and walk throughs for each problem/descriptions of the code i did for each day.
